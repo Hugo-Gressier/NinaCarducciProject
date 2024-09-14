@@ -1,3 +1,3 @@
 ## Nina Carducci website&thinsp;:
 
-- **Version&thinsp;:** 1.4.5
+- **Version&thinsp;:** 1.4.6
